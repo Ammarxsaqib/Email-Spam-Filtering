@@ -1,4 +1,4 @@
-# Email-Spam-Filtering
+# Email-Spam-Filtering-TechnoHacks
 In this , we address the task of classifying text messages as either "ham" (not spam) or "spam" using machine learning techniques. This problem is essential for spam email filtering, fraud detection, and more.
 
 Overview
